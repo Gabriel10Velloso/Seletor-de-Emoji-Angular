@@ -1,0 +1,1 @@
+Seletor-de-Emoji-Angular
